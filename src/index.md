@@ -1,0 +1,6 @@
+---
+permalink: /
+home: true
+---
+
+<GameIndex />
